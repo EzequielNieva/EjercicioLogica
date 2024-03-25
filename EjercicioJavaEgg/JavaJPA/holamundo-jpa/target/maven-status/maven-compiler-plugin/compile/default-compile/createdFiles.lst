@@ -1,0 +1,3 @@
+test\ClienteEntidadPersona.class
+com\mycompany\domain\Persona.class
+com\mycompany\jpa\holamundo\jpa\HolamundoJpa.class

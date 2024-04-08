@@ -1,19 +1,17 @@
-
 package com.mycompany.domain;
-
 import java.io.Serializable;
 import javax.persistence.*;
 
 @Entity
 public class Persona implements Serializable {
-    
+
     private static final long serialVersionUID=1L;
-    
+
     @Id
     @GeneratedValue(strategy=GenerationType.IDENTITY)
     @Column(name="id_persona")
     private int idpersona;
-    
+
     private String nombre;
     private String apellido;
     private String email;
@@ -73,6 +71,6 @@ public class Persona implements Serializable {
     public String toString() {
         return "Persona{" + "idpersona=" + idpersona + ", nombre=" + nombre + ", apellido=" + apellido + ", email=" + email + ", telefono=" + telefono + '}';
     }
-    
+
     
 }

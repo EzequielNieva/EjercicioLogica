@@ -52,6 +52,7 @@
 /EjercicioJavaEgg/JavaEE/ClienteEJBSeguridad/target/
 /EjercicioJavaEgg/JavaEE/ClienteSgaRestWs2/target/
 /EjercicioJavaEgg/JavaEE/ClienteSgaWs2/target/
+<<<<<<< HEAD
 /EjercicioJavaEgg/JavaEE/Struts2/L1/HolaMundoStruts/target/
 /EjercicioJavaEgg/JavaEE/Struts2/HolaMundoStruts/target/
 /EjercicioJavaEgg/JavaEE/Struts2/L2/ConvencionesStruts2/target/
@@ -74,3 +75,5 @@
 /EjercicioJavaEgg/JavaEE/Hibernate/L7/SgaWebHibernateJPA/target/
 /EjercicioJavaEgg/Spring/personas-backend-java/target/
 /EjercicioJavaEgg/AngularJavaEE/personas-backend-java/target/
+=======
+>>>>>>> 5db375443ff6c041cd3498ffd7c32c1a0533c1b9

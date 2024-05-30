@@ -1,0 +1,13 @@
+h1{
+    color:red;
+    margin: auto 50px;
+    text-align: center;
+}
+p{
+    color:white;
+    background-color: brown;
+    padding: 15px;
+    border: 10px solid powderblue;
+    margin: 50px 10px 20px 10px;
+
+}
